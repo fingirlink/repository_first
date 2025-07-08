@@ -2,5 +2,5 @@ package bit
 import "fmt"
 
 func Black() {
-	fmt.Println("Привет из first12")
+	fmt.Println("Прив из first12")
 }
