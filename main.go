@@ -1,6 +1,6 @@
 package main
 
-import bit "ronda/folder1"
+import bit "github.com/fingirlink/repository_first/folder1"
 
 func main() {
 	bit.Black()
