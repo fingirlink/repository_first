@@ -1,4 +1,4 @@
-package bit
+
 import "fmt"
 
 func Black() {
