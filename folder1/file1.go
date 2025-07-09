@@ -11,3 +11,4 @@ func Black() {
 func Second() {
 	fmt.Println("Ещё одна функция")
 }
+//LOREM
