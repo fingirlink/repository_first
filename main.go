@@ -2,6 +2,9 @@ package main
 
 import bit "github.com/fingirlink/repository_first/folder1"
 
-func main() {
+func main(){
 	bit.Black()
 }
+
+//hello world
+
