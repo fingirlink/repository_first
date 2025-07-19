@@ -6,4 +6,4 @@ func main(){
 	bit.Black()
 }
 
-// 4
+// 5
