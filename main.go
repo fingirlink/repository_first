@@ -6,4 +6,4 @@ func main(){
 	bit.Black()
 }
 
-// hey evryone
+// hey
